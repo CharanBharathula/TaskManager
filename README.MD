@@ -31,13 +31,7 @@ Starting the server - node index.js
 3. API to get task by id
     Method: GET
     API - http://localhost:3000/tasks/1
-4. API to get task by filtering and sorting
-    Method: GET
-    API - http://localhost:3000/tasks?sort=creationDate&order=desc
-5. API to get task by filtering and sorting
-    Method: GET
-    API - http://localhost:3000/tasks?sort=creationDate&order=desc
-6. API to update task
+4. API to update task
     Method: PUT
     Payload -
        {
@@ -45,9 +39,6 @@ Starting the server - node index.js
         "status": false
         }
     API - http://localhost:3000/tasks/4
-7. API to delete task
+5. API to delete task
     Method: DELETE
     API - http://localhost:3000/tasks/4
-8. API to get task by priority
-    Method: GET
-    API - http://localhost:3000/tasks/
