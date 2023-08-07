@@ -1,13 +1,10 @@
-===================================Task Manager Application=============================
 Airtribe Task Manager app
 The functionalities supported
 1. Add tasks
 2. View all the tasks
 3. View the task information
-4. View tasks by filtering and sorting
-5. Update task
-6. Delete task
-7. View task based on priority level
+4. Update task
+5. Delete task
 Packages to be installed
 body-parser
 express
